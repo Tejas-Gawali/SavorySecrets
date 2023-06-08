@@ -5,23 +5,10 @@ FoodChef is built uisng React.js. One can browse for recipes they want. It consi
 
 
 
-## Demo
-
-This website is now Live🔥
-
-👉 https://sumit-food-chef.netlify.app/
 
 
-## Badges
 
-[![Netlify Status](https://api.netlify.com/api/v1/badges/4f03e40a-cbb7-4fd8-a840-f8dda240ef55/deploy-status)](https://app.netlify.com/sites/sumit-food-chef/deploys)
-## Run Locally
 
-Clone the project
-
-```bash
-  git clone https://github.com/Sumit-Mundhe/food-chef.git
-```
 
 Go to the project directory
 
