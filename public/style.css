@@ -1,0 +1,32 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: 'Poppins', sans-serif;
+}
+body{
+    margin: 0% 8%;
+    padding-top: 6rem;
+    background-color: #85ff8594;
+    background: radial-gradient(circle, transparent 20%, #86ff85 20%, #86ff85 80%, transparent 80%, transparent), radial-gradient(circle, transparent 20%, #86ff85 20%, #86ff85 80%, transparent 80%, transparent) 20px 20px, linear-gradient(#52a549 1.6px, transparent 1.6px) 0 -0.8px, linear-gradient(90deg, #52a549 1.6px, #86ff85 1.6px) -0.8px 0;
+    background-size: 40px 40px, 40px 40px, 20px 20px, 20px 20px;
+}
+h4{
+    font-size: 1rem;
+    color: #EDF1D6;
+    text-shadow: 0 0 15px #3740058e;
+}
+a{
+    text-decoration: none;
+}
+
+.ingredient-li{
+    display: flex;
+    gap: 1.5rem;
+    padding-bottom: 1rem;
+    list-style: none;
+}
+.ingredient-img{
+    width: 100px;
+    height: 100px;
+}
